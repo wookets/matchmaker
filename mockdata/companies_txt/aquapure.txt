@@ -1,0 +1,77 @@
+company
+name AquaPure Technologies
+industry Water Purification
+founded 2000
+founder Luisa Gomez
+headquarters Amsterdam, Netherlands
+CEO Henrik Van der Berg
+employees 4500
+revenue 8B EUR
+net_income 1.5B EUR
+operating_income 2B EUR
+total_assets 15B EUR
+total_equity 10B EUR
+market_cap 25B EUR
+stock_symbol APT
+annual_growth_rate 12%
+R&D_budget 500M EUR
+number_of_patents 350
+global_presence
+Europe
+Asia
+North America
+Africa
+subsidiaries
+ClearWater Tech
+PureLife Solutions
+main_products
+Water Filters
+Purification Systems
+Water Testing Kits
+key_markets
+Europe
+Middle East
+Southeast Asia
+CSR_initiatives
+Clean Water for All
+Sustainable Water Project
+employee_satisfaction_rate 93%
+average_salary 60k EUR
+employee_turnover_rate 7%
+number_of_offices 25
+IPO_year 2005
+annual_advertising_budget 150M EUR
+stock_exchange Euronext
+major_shareholders
+WaterWorld Investors
+EcoFund Ventures
+legal_structure Publicly Traded Company
+industry_rank 2
+credit_rating A
+annual_research_publications 60
+partnership_programs
+Global Water Initiative
+Innovative Water Solutions
+brand_value 12B EUR
+customer_satisfaction_rate 96%
+social_media_followers 1M
+annual_charity_donations 30M EUR
+environmental_impact_score A
+diversity_inclusion_index 85%
+patents_granted_yearly 15
+key_competitors
+HydroClean Inc.
+PureTech Water
+M&A_activities
+Acquisition of AquaTech
+Merger with WaterSafe Solutions
+average_product_price 250 EUR
+warranty_policies 5-Year Quality Assurance
+customer_service_rating 4.9/5
+online_sales_percentage 35%
+retail_presence 150 stores across Europe and Asia
+executive_board_members 9
+annual_IT_spending 100M EUR
+data_security_rating 8.5/10
+remote_work_percentage 20%
+employee_training_hours_per_year 30

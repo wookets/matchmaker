@@ -1,0 +1,76 @@
+company
+name BrightFutures Inc.
+industry Education Technology
+founded 2010
+founder Sara Khan
+headquarters Toronto, Canada
+CEO David Park
+employees 3000
+revenue 5B CAD
+net_income 1B CAD
+operating_income 1.5B CAD
+total_assets 10B CAD
+total_equity 6B CAD
+market_cap 20B CAD
+stock_symbol BFI
+annual_growth_rate 25%
+R&D_budget 300M CAD
+number_of_patents 200
+global_presence
+North America
+Europe
+Asia-Pacific
+subsidiaries
+EduTech Solutions
+Future Learning Labs
+main_products
+Online Learning Platforms
+Educational Apps
+E-Learning Courses
+key_markets
+North America
+Europe
+Asia
+CSR_initiatives
+Tech Education for All
+Bright Minds Program
+employee_satisfaction_rate 92%
+average_salary 80k CAD
+employee_turnover_rate 8%
+number_of_offices 20
+IPO_year 2015
+annual_advertising_budget 100M CAD
+stock_exchange Toronto Stock Exchange
+major_shareholders
+EdTech Ventures
+Innovate Capital
+legal_structure Publicly Traded Company
+industry_rank 2
+credit_rating A+
+annual_research_publications 75
+partnership_programs
+Global EdTech Initiative
+Innovative Learning Collaborative
+brand_value 9B CAD
+customer_satisfaction_rate 93%
+social_media_followers 2M
+annual_charity_donations 20M CAD
+environmental_impact_score B
+diversity_inclusion_index 88%
+patents_granted_yearly 20
+key_competitors
+LearnFast Inc.
+EduFuture Ltd.
+M&A_activities
+Acquisition of LearnSmart
+Merger with TechEducate
+average_product_price 150 CAD
+warranty_policies 3-Year Limited Warranty
+customer_service_rating 4.6/5
+online_sales_percentage 70%
+retail_presence 50 centers worldwide
+executive_board_members 12
+annual_IT_spending 80M CAD
+data_security_rating 8.5/10
+remote_work_percentage 40%
+employee_training_hours_per_year 60

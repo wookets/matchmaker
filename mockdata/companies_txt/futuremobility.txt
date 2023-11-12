@@ -1,0 +1,76 @@
+company
+name Future Mobility Corp
+industry Electric Vehicles
+founded 2015
+founder Elena Rodriguez
+headquarters Shanghai, China
+CEO Leo Zhang
+employees 10000
+revenue 25B CNY
+net_income 3B CNY
+operating_income 5B CNY
+total_assets 40B CNY
+total_equity 22B CNY
+market_cap 70B CNY
+stock_symbol FMC
+annual_growth_rate 30%
+R&D_budget 4B CNY
+number_of_patents 600
+global_presence
+Asia
+North America
+Europe
+subsidiaries
+EcoDrive Technologies
+BatteryPlus Innovations
+main_products
+Electric Cars
+Batteries
+Charging Stations
+key_markets
+China
+United States
+Germany
+CSR_initiatives
+Green Drive Program
+Zero Emissions Future
+employee_satisfaction_rate 90%
+average_salary 120k CNY
+employee_turnover_rate 6%
+number_of_offices 35
+IPO_year 2018
+annual_advertising_budget 600M CNY
+stock_exchange Shanghai Stock Exchange
+major_shareholders
+EcoVentures Group
+FutureTech Capital
+legal_structure Publicly Traded Company
+industry_rank 1
+credit_rating AAA
+annual_research_publications 120
+partnership_programs
+Electric Mobility Alliance
+Innovative Transport Solutions
+brand_value 35B CNY
+customer_satisfaction_rate 94%
+social_media_followers 10M
+annual_charity_donations 200M CNY
+environmental_impact_score A+
+diversity_inclusion_index 92%
+patents_granted_yearly 40
+key_competitors
+EcoWheels Inc.
+NextGen Autos
+M&A_activities
+Acquisition of ChargePoint Network
+Merger with GreenMotors
+average_product_price 300k CNY
+warranty_policies 7-Year Vehicle Warranty
+customer_service_rating 4.8/5
+online_sales_percentage 45%
+retail_presence 200 showrooms globally
+executive_board_members 12
+annual_IT_spending 250M CNY
+data_security_rating 9.5/10
+remote_work_percentage 25%
+employee_training_hours_per_year 50
