@@ -1,0 +1,30 @@
+{
+  "companyName": "Frontline Customer Solutions",
+  "industry": "Customer Engagement and Support",
+  "servicesOffered": [
+    "Live Customer Interaction and Support",
+    "Email and Chat Response Management",
+    "Feedback Collection and Trend Analysis",
+    "Loyalty Program Handling",
+    "Dispute and Conflict Resolution Services"
+  ],
+  "targetClients": [
+    "Online Retail",
+    "Consumer Electronics",
+    "Hospitality Services",
+    "Financial Institutions",
+    "Healthcare and Wellness"
+  ],
+  "location": "Dublin, Ireland",
+  "yearFounded": 2018,
+  "numberOfEmployees": 220,
+  "missionStatement": "Delivering front-line solutions for customer engagement and support, ensuring satisfaction and loyalty.",
+  "keyValues": ["Customer-Centric Approach", "Professionalism", "Innovation", "Reliability", "Continuous Learning"],
+  "website": "www.frontlinecustomersolutions.com",
+  "contactEmail": "contact@frontlinecs.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/frontlinecustomersolutions",
+    "Facebook": "facebook.com/FrontlineCustomerSolutions",
+    "Twitter": "@FrontlineCS"
+  }
+}

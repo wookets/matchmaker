@@ -1,0 +1,30 @@
+{
+  "companyName": "ResponseNow Contact Center",
+  "industry": "Customer Service and Support",
+  "servicesOffered": [
+    "Rapid Response Customer Service",
+    "Technical Support for Hardware and Software",
+    "Customer Feedback and Satisfaction Surveys",
+    "Bilingual Support Services",
+    "Product Information and Order Support"
+  ],
+  "targetClients": [
+    "Consumer Electronics Brands",
+    "Software and App Developers",
+    "E-commerce and Retail Businesses",
+    "Telecommunications Providers",
+    "Healthcare and Medical Services"
+  ],
+  "location": "Chicago, Illinois, USA",
+  "yearFounded": 2014,
+  "numberOfEmployees": 300,
+  "missionStatement": "Ensuring immediate and effective response for all customer service needs with a focus on quality and satisfaction.",
+  "keyValues": ["Rapid Response", "Quality Service", "Innovation", "Customer Satisfaction", "Multilingual Support"],
+  "website": "www.responsenowcc.com",
+  "contactEmail": "info@responsenowcc.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/responsenowcontactcenter",
+    "Facebook": "facebook.com/ResponseNowCC",
+    "Twitter": "@ResponseNowCC"
+  }
+}

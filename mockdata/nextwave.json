@@ -1,0 +1,30 @@
+{
+  "companyName": "NextWave Contact Solutions",
+  "industry": "Customer Service and Sales Support",
+  "servicesOffered": [
+    "Sales Lead Generation and Follow-up",
+    "Customer Onboarding and Education",
+    "Technical Product Support",
+    "Loyalty Program Management",
+    "Market Research and Survey Administration"
+  ],
+  "targetClients": [
+    "E-commerce Platforms",
+    "Software and Tech Startups",
+    "Telecommunication Providers",
+    "Consumer Electronics Manufacturers",
+    "Automotive Dealerships"
+  ],
+  "location": "Cape Town, South Africa",
+  "yearFounded": 2014,
+  "numberOfEmployees": 350,
+  "missionStatement": "Empowering businesses to excel in customer engagement and sales with innovative, reliable, and scalable support solutions.",
+  "keyValues": ["Client Success Focus", "Innovative Thinking", "Effective Communication", "Team Collaboration", "Result-Oriented Approach"],
+  "website": "www.nextwavecontactsolutions.com",
+  "contactEmail": "info@nextwavecontactsolutions.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/nextwavecontactsolutions",
+    "Twitter": "@NextWaveCS",
+    "Facebook": "facebook.com/NextWaveContactSolutions"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "companyName": "PeakConnect Client Services",
+  "industry": "Business Process Outsourcing",
+  "servicesOffered": [
+    "Customer Service and Complaint Resolution",
+    "Billing and Payment Support",
+    "Product Information and Order Processing",
+    "Client Account Management",
+    "CRM Database Management"
+  ],
+  "targetClients": [
+    "Banking and Financial Services",
+    "Insurance Companies",
+    "Utility Service Providers",
+    "Retail Businesses",
+    "Health and Wellness Brands"
+  ],
+  "location": "Denver, Colorado, USA",
+  "yearFounded": 2016,
+  "numberOfEmployees": 400,
+  "missionStatement": "To elevate client success through superior customer service solutions and strategic business process management.",
+  "keyValues": ["Customer Focus", "Reliability", "Innovation", "Ethical Practice", "Teamwork"],
+  "website": "www.peakconnectservices.com",
+  "contactEmail": "contact@peakconnectservices.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/peakconnectclientservices",
+    "Facebook": "facebook.com/PeakConnectClientServices",
+    "Twitter": "@PeakConnectCS"
+  }
+}

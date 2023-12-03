@@ -1,0 +1,30 @@
+{
+  "companyName": "Synergy Client Connections",
+  "industry": "Customer Interaction and Relationship Management",
+  "servicesOffered": [
+    "Customized Client Interaction Solutions",
+    "Post-Sale Customer Engagement",
+    "Multichannel Helpdesk Support",
+    "Customer Feedback Analysis",
+    "Client Retention and Recovery Programs"
+  ],
+  "targetClients": [
+    "Financial Services",
+    "Retail and E-commerce",
+    "Hospitality and Travel",
+    "Healthcare Providers",
+    "Educational Services"
+  ],
+  "location": "Toronto, Canada",
+  "yearFounded": 2012,
+  "numberOfEmployees": 320,
+  "missionStatement": "Forging lasting client relationships through personalized, comprehensive customer interaction and support services.",
+  "keyValues": ["Client Engagement", "Customized Solutions", "Integrity", "Collaborative Growth", "Excellence in Service"],
+  "website": "www.synergyclientconnections.com",
+  "contactEmail": "service@synergyclientconnections.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/synergyclientconnections",
+    "Facebook": "facebook.com/SynergyClientConnections",
+    "Twitter": "@SynergyCC"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "companyName": "Horizon Outreach Services",
+  "industry": "Customer Engagement and Support",
+  "servicesOffered": [
+    "24/7 Multi-Lingual Customer Support",
+    "Virtual Assistant Services",
+    "Customer Journey Mapping",
+    "Brand Reputation Management",
+    "CRM Integration and Management"
+  ],
+  "targetClients": [
+    "Digital Marketing Agencies",
+    "Hospitality and Leisure Services",
+    "Educational Technology Providers",
+    "Healthcare Services",
+    "Non-Profit Organizations"
+  ],
+  "location": "Dublin, Ireland",
+  "yearFounded": 2015,
+  "numberOfEmployees": 280,
+  "missionStatement": "Expanding customer engagement horizons with innovative, empathetic, and efficient support services.",
+  "keyValues": ["Customer Empathy", "Innovative Solutions", "Reliability", "Ethical Practices", "Collaborative Success"],
+  "website": "www.horizonoutreachservices.com",
+  "contactEmail": "contact@horizonoutreachservices.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/horizonoutreachservices",
+    "Facebook": "facebook.com/HorizonOutreachServices",
+    "Instagram": "@HorizonOutreach"
+  }
+}

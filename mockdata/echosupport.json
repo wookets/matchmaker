@@ -1,0 +1,30 @@
+{
+  "companyName": "Echo Support Hub",
+  "industry": "Customer Support Outsourcing",
+  "servicesOffered": [
+    "Omnichannel Customer Support (Phone, Email, Social Media)",
+    "Technical and IT Support Services",
+    "Live Chat Support",
+    "Customer Satisfaction Surveys",
+    "Order Management and Tracking Support"
+  ],
+  "targetClients": [
+    "Software and IT Companies",
+    "Online Retailers",
+    "Educational Institutions",
+    "Healthcare Services",
+    "Hospitality Industry"
+  ],
+  "location": "Toronto, Canada",
+  "yearFounded": 2018,
+  "numberOfEmployees": 200,
+  "missionStatement": "Delivering superior customer experiences through innovative and personalized support solutions.",
+  "keyValues": ["Innovation in Service", "Commitment to Quality", "Empathy", "Efficiency", "Growth and Learning"],
+  "website": "www.echosupporthub.com",
+  "contactEmail": "support@echosupporthub.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/echosupporthub",
+    "Facebook": "facebook.com/EchoSupportHub",
+    "Twitter": "@EchoSupportHub"
+  }
+}

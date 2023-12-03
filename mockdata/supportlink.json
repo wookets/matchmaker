@@ -1,0 +1,30 @@
+{
+  "companyName": "SupportLink Solutions",
+  "industry": "Customer Support Services",
+  "servicesOffered": [
+    "24/7 Customer Support",
+    "Multi-Channel Support (Phone, Email, Chat)",
+    "Technical Support",
+    "Customer Relationship Management",
+    "Feedback Collection and Analysis"
+  ],
+  "targetClients": [
+    "E-commerce Businesses",
+    "Tech Companies",
+    "Financial Services",
+    "Healthcare Providers",
+    "Telecommunication Companies"
+  ],
+  "location": "Austin, Texas, USA",
+  "yearFounded": 2015,
+  "numberOfEmployees": 300,
+  "missionStatement": "To provide exceptional customer support services, enhancing client satisfaction and loyalty through efficient and personalized solutions.",
+  "keyValues": ["Client-Centric Approach", "Innovation", "Integrity", "Teamwork", "Continuous Improvement"],
+  "website": "www.supportlinksolutions.com",
+  "contactEmail": "info@supportlinksolutions.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/supportlinksolutions",
+    "Twitter": "@SupportLinkSol",
+    "Facebook": "facebook.com/SupportLinkSolutions"
+  }
+}

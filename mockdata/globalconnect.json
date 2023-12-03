@@ -1,0 +1,30 @@
+{
+  "companyName": "GlobalConnect Enterprises",
+  "industry": "Outsourced Contact Center Services",
+  "servicesOffered": [
+    "Inbound and Outbound Call Handling",
+    "Multi-language Support",
+    "Customer Retention Management",
+    "After-Hours Customer Service",
+    "Data Entry and Processing Services"
+  ],
+  "targetClients": [
+    "Retail and Consumer Goods",
+    "Travel and Hospitality",
+    "Insurance Companies",
+    "Online Service Providers",
+    "Utilities and Energy Sector"
+  ],
+  "location": "Dublin, Ireland",
+  "yearFounded": 2012,
+  "numberOfEmployees": 500,
+  "missionStatement": "Bridging global businesses with world-class customer engagement and effective communication solutions.",
+  "keyValues": ["Global Connectivity", "Customer Excellence", "Adaptability", "Respect", "Transparency"],
+  "website": "www.globalconnectenterprises.com",
+  "contactEmail": "contact@globalconnectenterprises.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/globalconnectenterprises",
+    "Instagram": "@GlobalConnectEnterprises",
+    "Twitter": "@GCEnterprises"
+  }
+}

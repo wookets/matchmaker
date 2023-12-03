@@ -1,0 +1,30 @@
+{
+  "companyName": "ResponseFirst Call Center",
+  "industry": "Customer Interaction and Support Services",
+  "servicesOffered": [
+    "Customer Inquiry Handling",
+    "Emergency Response Services",
+    "Appointment Scheduling",
+    "Bilingual Support Services",
+    "Quality Assurance and Compliance Monitoring"
+  ],
+  "targetClients": [
+    "Healthcare Providers",
+    "Government Agencies",
+    "Legal Firms",
+    "Real Estate Agencies",
+    "Small and Medium-Sized Businesses"
+  ],
+  "location": "Melbourne, Australia",
+  "yearFounded": 2017,
+  "numberOfEmployees": 150,
+  "missionStatement": "To be the first line of exceptional support, ensuring every customer interaction is handled with utmost priority and professionalism.",
+  "keyValues": ["Responsiveness", "Accuracy", "Empathy", "Integrity", "Continuous Improvement"],
+  "website": "www.responsefirstcc.com",
+  "contactEmail": "hello@responsefirstcc.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/responsefirstcallcenter",
+    "Facebook": "facebook.com/ResponseFirstCC",
+    "Instagram": "@ResponseFirstCC"
+  }
+}

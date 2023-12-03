@@ -1,0 +1,30 @@
+{
+  "companyName": "EngageCore Communication Services",
+  "industry": "Client Engagement and Support",
+  "servicesOffered": [
+    "Inbound and Outbound Call Handling",
+    "Chat and Email Support Services",
+    "Customer Experience Improvement Programs",
+    "Social Media Monitoring and Response",
+    "Market Research and Consumer Insights"
+  ],
+  "targetClients": [
+    "Retail and E-commerce",
+    "Software and Technology Companies",
+    "Health and Wellness Brands",
+    "Consumer Services",
+    "Travel and Hospitality"
+  ],
+  "location": "Seattle, Washington, USA",
+  "yearFounded": 2014,
+  "numberOfEmployees": 275,
+  "missionStatement": "Connecting businesses with their customers through innovative and empathetic communication solutions.",
+  "keyValues": ["Customer-Centric Approach", "Innovation", "Integrity", "Collaborative Success", "Adaptability"],
+  "website": "www.engagecorecommunications.com",
+  "contactEmail": "contact@engagecorecommunications.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/engagecorecommunicationservices",
+    "Facebook": "facebook.com/EngageCoreCommunications",
+    "Instagram": "@EngageCoreComms"
+  }
+}

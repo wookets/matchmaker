@@ -1,0 +1,30 @@
+{
+  "companyName": "Prime Connect Customer Services",
+  "industry": "Customer Service and Engagement",
+  "servicesOffered": [
+    "24/7 Customer Assistance",
+    "B2B and B2C Relationship Management",
+    "Order Processing and Fulfillment Support",
+    "Quality Assurance and Feedback Analysis",
+    "Crisis Management and Response Services"
+  ],
+  "targetClients": [
+    "Retail and E-Commerce",
+    "Healthcare and Pharmaceuticals",
+    "Banking and Financial Services",
+    "Travel and Tourism",
+    "Information Technology Services"
+  ],
+  "location": "London, United Kingdom",
+  "yearFounded": 2017,
+  "numberOfEmployees": 230,
+  "missionStatement": "Providing prime customer service experiences through dedicated, innovative, and responsive support solutions.",
+  "keyValues": ["Customer Excellence", "Innovation", "Integrity", "Proactive Engagement", "Adaptability"],
+  "website": "www.primeconnectcs.com",
+  "contactEmail": "support@primeconnectcs.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/primeconnectcustomerservices",
+    "Facebook": "facebook.com/PrimeConnectCustomerServices",
+    "Twitter": "@PrimeConnectCS"
+  }
+}

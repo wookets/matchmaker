@@ -1,0 +1,30 @@
+{
+  "companyName": "Vertex Support Networks",
+  "industry": "Customer Service and Technical Support",
+  "servicesOffered": [
+    "Round-the-Clock Customer Service",
+    "Advanced Technical Support for Electronics and IT",
+    "Customer Feedback and Complaint Handling",
+    "CRM Customization and Management",
+    "Sales and Marketing Support"
+  ],
+  "targetClients": [
+    "Technology Firms",
+    "Consumer Electronics Brands",
+    "Internet Service Providers",
+    "Online Retailers",
+    "Business Software Developers"
+  ],
+  "location": "Austin, Texas, USA",
+  "yearFounded": 2013,
+  "numberOfEmployees": 400,
+  "missionStatement": "To be the leading edge in customer support, providing innovative and tailored solutions for complex service needs.",
+  "keyValues": ["Cutting-Edge Service", "Client Satisfaction", "Technical Expertise", "Responsive Support", "Continuous Improvement"],
+  "website": "www.vertexsupportnetworks.com",
+  "contactEmail": "info@vertexsupportnetworks.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/vertexsupportnetworks",
+    "Facebook": "facebook.com/VertexSupportNetworks",
+    "Twitter": "@VertexSupport"
+  }
+}

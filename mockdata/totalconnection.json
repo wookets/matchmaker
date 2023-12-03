@@ -1,0 +1,30 @@
+{
+  "companyName": "Total Connection Customer Care",
+  "industry": "Customer Relationship Management",
+  "servicesOffered": [
+    "End-to-End Customer Support Services",
+    "Product Information and Sales Assistance",
+    "Customer Retention and Loyalty Programs",
+    "After-Sales Support and Warranty Management",
+    "Data-Driven Customer Insight and Analytics"
+  ],
+  "targetClients": [
+    "Consumer Goods Companies",
+    "Automotive Industry",
+    "Telecommunication Providers",
+    "E-commerce Platforms",
+    "Energy and Utilities Companies"
+  ],
+  "location": "Toronto, Canada",
+  "yearFounded": 2013,
+  "numberOfEmployees": 350,
+  "missionStatement": "Creating total connection with customers through exceptional service and innovative relationship management.",
+  "keyValues": ["Complete Customer Satisfaction", "Innovative Engagement", "Excellence in Service", "Data-Driven Strategies", "Ethical Practice"],
+  "website": "www.totalconnectioncc.com",
+  "contactEmail": "info@totalconnectioncc.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/totalconnectioncustomercare",
+    "Facebook": "facebook.com/TotalConnectionCustomerCare",
+    "Instagram": "@TotalConnectionCC"
+  }
+}

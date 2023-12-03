@@ -1,0 +1,30 @@
+{
+  "companyName": "ClientBridge Support Services",
+  "industry": "Customer Assistance and Engagement",
+  "servicesOffered": [
+    "Customer Query Resolution",
+    "Technical Support for Products and Services",
+    "Customer Retention and Relationship Management",
+    "Complaint Handling and Resolution",
+    "Customer Lifecycle Management"
+  ],
+  "targetClients": [
+    "Telecommunications",
+    "Consumer Goods and Retail",
+    "Financial Services",
+    "Healthcare Providers",
+    "Technology and Software Companies"
+  ],
+  "location": "Brisbane, Australia",
+  "yearFounded": 2016,
+  "numberOfEmployees": 300,
+  "missionStatement": "Building bridges between clients and their customers with exceptional support and engagement services.",
+  "keyValues": ["Customer Focus", "Excellence in Service", "Innovation", "Responsiveness", "Ethical Practice"],
+  "website": "www.clientbridgesupport.com",
+  "contactEmail": "info@clientbridgesupport.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/clientbridgesupportservices",
+    "Facebook": "facebook.com/ClientBridgeSupport",
+    "Instagram": "@ClientBridgeSupport"
+  }
+}

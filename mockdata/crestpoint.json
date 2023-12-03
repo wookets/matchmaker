@@ -1,0 +1,30 @@
+{
+  "companyName": "CrestPoint Customer Relations",
+  "industry": "Customer Care and Support Services",
+  "servicesOffered": [
+    "Personalized Customer Care",
+    "Escalation and Complaint Management",
+    "Cross-Selling and Up-Selling Services",
+    "Customer Loyalty and Rewards Program Management",
+    "Back-Office Support Services"
+  ],
+  "targetClients": [
+    "Hospitality Industry",
+    "Airlines and Travel Agencies",
+    "Banking and Investment Firms",
+    "Healthcare and Pharmaceutical Companies",
+    "Educational Institutions"
+  ],
+  "location": "Manchester, United Kingdom",
+  "yearFounded": 2011,
+  "numberOfEmployees": 450,
+  "missionStatement": "Connecting businesses with their customers through personalized, empathetic, and efficient customer relations services.",
+  "keyValues": ["Customer Satisfaction", "Professionalism", "Innovation", "Integrity", "Teamwork"],
+  "website": "www.crestpointrelations.com",
+  "contactEmail": "support@crestpointrelations.com",
+  "socialMediaProfiles": {
+    "LinkedIn": "linkedin.com/company/crestpointcustomerrelations",
+    "Facebook": "facebook.com/CrestPointRelations",
+    "Instagram": "@CrestPointRelations"
+  }
+}
